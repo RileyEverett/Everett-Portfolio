@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.1
+Built-By: rileyeverett
+Build-Jdk: 13.0.1
+Implementation-Title: Airline Web/REST Project
+Implementation-Version: Winter2020
+Implementation-Vendor-Id: edu.pdx.cs410J.riley34
+Implementation-Vendor: Portland State University
+Implementation-URL: http://maven.apache.org
+Built-From-Branch: master
+Built-From-Revision: ad618b699d0ef8ff51ffb770ab22c6cd00066ca8
+Built-On: 2020-03-06T01:53:59.891-0800
+
