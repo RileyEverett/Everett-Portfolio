@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Airline App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_screen_label">Home Screen</string>
+    <string name="create_airline_label">Create Airline</string>
+    <string name="previous">Back</string>
+
+    <string name="airline_name">No Airline Selected</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="create_a_new_airline">Create A New Airline</string>
+    <string name="add_a_new_flight">Add A New Flight</string>
+    <string name="switch_airlines">Switch Airlines</string>
+    <string name="display_all_flights">Display All Flights</string>
+    <string name="submit">Submit</string>
+    <string name="enter_airline_name">Airline Name</string>
+    <string name="select_an_airline">Select an Airline</string>
+    <string name="flight_number">Flight Number</string>
+    <string name="create_a_new_flight">Create A New Flight</string>
+    <string name="source_airport">Source Airport</string>
+    <string name="departure_date">Departure Date (MM/DD/YYYY)</string>
+    <string name="departure_time">Departure Time (HH:MM)</string>
+    <string name="select_time_suffix">Select Time Suffix</string>
+    <string name="destination_airport">Destination Airport</string>
+    <string name="arrival_date">Arrival Date (MM/DD/YYYY)</string>
+    <string name="arrival_time">Arrival Time (HH:MM)</string>
+    <string name="search_for_flights">Search For Flights</string>
+    <string name="search">search</string>
+    <string name="load">load</string>
+    <string name="save">save</string>
+
+    <string name="readMe">
+        This app is used to track airlines and their corresponding flights.\n\nYou can use it to create
+        multiple airlines, add flights to those airlines, and search for and display flights.\n\nIf you
+        would like to save your airlines and flights for later use press the save button on the home
+        screen before closing the app.\n\nTo retrieve your information press the load button on the home
+        screen when you return to the app.\n\nThank you!
+    </string>
+
+
+    <string-array name="am_pm_array">
+        <item>am</item>
+        <item>pm</item>
+    </string-array>
+</resources>

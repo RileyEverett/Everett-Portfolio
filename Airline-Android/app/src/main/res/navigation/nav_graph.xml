@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainActivity">
+
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="edu.pdx.cs410j.riley34.airlineapp.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" >
+        <action
+            android:id="@+id/action_mainActivity_to_createAirline"
+            app:destination="@id/createAirline" />
+        <action
+            android:id="@+id/action_mainActivity_to_createFlight"
+            app:destination="@id/createFlight" />
+        <action
+            android:id="@+id/action_mainActivity_to_displayFlights"
+            app:destination="@id/displayFlights" />
+        <action
+            android:id="@+id/action_mainActivity_to_switchAirline"
+            app:destination="@id/switchAirline" />
+    </activity>
+    <activity
+        android:id="@+id/createFlight"
+        android:name="edu.pdx.cs410j.riley34.airlineapp.CreateFlight"
+        android:label="activity_create_flight"
+        tools:layout="@layout/activity_create_flight" />
+    <activity
+        android:id="@+id/displayFlights"
+        android:name="edu.pdx.cs410j.riley34.airlineapp.DisplayFlights"
+        android:label="activity_display_flights"
+        tools:layout="@layout/activity_display_flights" />
+    <activity
+        android:id="@+id/switchAirline"
+        android:name="edu.pdx.cs410j.riley34.airlineapp.SwitchAirline"
+        android:label="activity_switch_airline"
+        tools:layout="@layout/activity_switch_airline" />
+    <activity
+        android:id="@+id/createAirline"
+        android:name="edu.pdx.cs410j.riley34.airlineapp.CreateAirline"
+        android:label="create_airline"
+        tools:layout="@layout/create_airline" />
+</navigation>
