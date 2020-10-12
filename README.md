@@ -1,8 +1,8 @@
 # Riley Everett Code Portfolio
 
-## Hello and welcome to my repository!
+### Hello and welcome to my repository!
 
-### Below is an overview of the projects I have worked on and a brief description each project’s function.
+### Below is an overview of the projects I have worked on and a brief description of each project’s function.
 
 **C++ Binary Search Tree Project (2017)**
 -	A data structures project with a basic user application that is supported by a back end binary search tree  
