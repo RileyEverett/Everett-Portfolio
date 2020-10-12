@@ -7,10 +7,8 @@
 **C++ Binary Search Tree Project (2017)**
 -	A data structures project with a basic user application that is supported by a back end binary search tree  
 
-
 **C++ Doubly Linked List Project (2017)**
--	An application that translates text into different formalities built using a DLL data structure.
-
+-	An application that translates text into different formalities built using a DLL data structure.\
 
 **C++ Graph Data Structure Project (2018)**
 -	A project where the user can move drone objects around a virtual space represented with a graph data structure 
