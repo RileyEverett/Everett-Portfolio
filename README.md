@@ -20,7 +20,7 @@
 -	A data structures project with a basic user application that is supported by a back end balanced 2-3 tree  
 
 **Python Machine Learning Projects (2020)**
--	A collection of machine learning programs including perception classifiers, a stochastic gradient descent neural net, naïve bayes classification, and k means clustering.
+-	A collection of machine learning projects including perceptron classifiers, a stochastic gradient descent neural net, naïve bayes classification, and k means clustering.
 
 
 
