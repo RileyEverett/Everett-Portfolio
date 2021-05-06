@@ -4,10 +4,10 @@
 
 ### Below is an overview of the projects I have worked on and a brief description of each project’s function.
 
-**C++ Binary Search Tree Project (2017)**
+**C++ Binary Search Tree Project (2018)**
 -	A data structures project with a basic user application that is supported by a back end binary search tree  
 
-**C++ Doubly Linked List Project (2017)**
+**C++ Doubly Linked List Project (2018)**
 -	An application that translates text into different formalities built using a DLL data structure.
 
 **C++ Graph Data Structure Project (2018)**
